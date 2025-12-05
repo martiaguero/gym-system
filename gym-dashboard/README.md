@@ -1,0 +1,16 @@
+gym-system   
+    gym-dashboard
+        node_modules
+        public
+            vite.svg
+        src
+            assets
+                react.svg
+            app.css
+            app.jsx
+            index.css
+            main.jsx
+        packasje.json
+        index.html
+        tailwind.config.js
+        postcss.config.js
